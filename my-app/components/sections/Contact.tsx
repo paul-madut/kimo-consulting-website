@@ -153,7 +153,7 @@ function Contact() {
                     required
                     className="w-full px-4 py-3 border border-gray-300 rounded-xl transition-colors"
                     style={{ 
-                      '--tw-ring-color': 'var(--secondary-teal)',
+                      
                       outline: 'none'
                     }}
                     onFocus={(e) => {
