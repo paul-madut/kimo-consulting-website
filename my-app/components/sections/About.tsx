@@ -8,10 +8,10 @@ function About() {
             <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4">
               <div>
                 <p className="text-gray-500 text-sm mb-6">
-                  In the midst of business, success is both a destination and a journey. At Legal Pro, innovation is never far away.
+                  In the midst of business, success is both a destination and a journey. At Kimo Adiebo Consulting, innovation is never far away.
                 </p>
                 <p className="text-lg font-medium text-gray-900">
-                  Legal Pro was established as the essential investment consulting firm, trusted for our innovative solutions and service excellence at your business.
+                  Kimo Adiebo Consulting was established as the essential investment consulting firm, trusted for our innovative solutions and service excellence at your business.
                 </p>
               </div>
               <div className="flex flex-col items-center justify-center">

@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center">
-            <p className="text-teal-800 font-bold text-xl">Legal Pro</p>
+            <p className="text-teal-800 font-bold text-xl">Kimo Adiebo Consulting</p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-gray-500">
                 <span className="sr-only">Facebook</span>

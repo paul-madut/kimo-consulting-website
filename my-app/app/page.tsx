@@ -3,12 +3,11 @@ import Image from "next/image";
 // Section imports
 import Navbar from "@/components/sections/Navbar";
 import Hero from "@/components/sections/Hero";
-import About from "@/components/sections/About";
+import Mission from "@/components/sections/Mission";
 import Services from "@/components/sections/Services";
-import Stratagey from "@/components/sections/Stratagey";
+import Projects from "@/components/sections/Projects";
 import Testimonials from "@/components/sections/Testimonials";
-import Cta from "@/components/sections/Cta";
-import FinalCta from "@/components/sections/FinalCta";
+import Contact from "@/components/sections/Contact";
 import Footer from "@/components/sections/Footer";
 
 export default function Home() {
@@ -16,18 +15,14 @@ export default function Home() {
     <div>
       <Navbar />
       <main>
-
-      <Hero />
-      <About />
-      <Services />
-      <Stratagey />
-      <Testimonials />
-      <Cta />
-      <FinalCta />
+        <Hero />
+        <Mission />
+        <Services />
+        <Projects />
+        <Testimonials />
+        <Contact />
       </main>
       <Footer />
-
-
     </div>
   );
 }
